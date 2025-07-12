@@ -1,0 +1,11 @@
+custom exception defined as 
+except exception as e :
+(required condition)
+
+Division Error
+except DivisionValueError as e:
+(required condition)
+
+Value type Error
+except ValueError as e:
+(required condition)
